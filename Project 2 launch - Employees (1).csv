@@ -1,4 +1,4 @@
-Employee ID,Employee Name,job ID,is_main_character,years_at_office,last_branch,actor ID,hobby ID,episodes
+Employee ID,Employee Name,job ID,is_main_character,years_at_office,last_branch,actor_ID,hobby ID,episodes
 1,Michael Scott,6,TRUE,18,Scranton,1,1,140
 2,Jim Halpert,1,TRUE,12,Scranton,2,2,186
 3,Pam Beesly,2,TRUE,10,Scranton,3,3,186
