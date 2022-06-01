@@ -1,0 +1,8 @@
+hobby_cat_id,hobby_category,pop_by_percentage
+1,arts,26
+2,sports,18
+3,outdoor activity,31
+4,pets,33
+5,music,14
+6,other,6
+7,NULL,NULL

@@ -1,0 +1,19 @@
+Employee ID,Employee Name,job ID,is_main_character,years_at_office,last_branch,actor ID,hobby ID,episodes
+1,Michael Scott,6,TRUE,18,Scranton,1,1,140
+2,Jim Halpert,1,TRUE,12,Scranton,2,2,186
+3,Pam Beesly,2,TRUE,10,Scranton,3,3,186
+4,Dwight Schrute,1,TRUE,14,Scranton,4,4,182
+5,Angela Martin,7,TRUE,12,Scranton,9,5,156
+6,Andy Bernard,1,TRUE,8,Scranton,6,6,144
+7,Toby Flenderson,4,FALSE,12,Scranton,8,7,153
+8,Ryan Howard,9,FALSE,8,Scranton,7,8,136
+9,Kelly Kapoor,8,TRUE,12,Scranton,5,9,186
+10,Creed Bratton,10,FALSE,16,Scranton,14,10,186
+11,Kevin Malone,7,FALSE,12,Scranton,10,11,184
+12,Jan Levinson,11,FALSE,12,NULL,18,13,174
+13,Darryl Philbin,5,FALSE,9,Scranton,17,12,101
+14,Stanley Hudson,1,TRUE,24,Scranton,15,16,186
+15,Phyllis Vance,1,TRUE,19,Scranton,11,17,186
+16,Erin Hannon,2,FALSE,5,Scranton,13,18,184
+17,Oscar Martinez,7,TRUE,12,Scranton,12,18,116
+,,,,,,,,42

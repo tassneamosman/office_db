@@ -1,0 +1,19 @@
+id,hobby,cost level,hobby_cat_id
+1,improv,low,1
+2,basketball,low,2
+3,painting,medium,1
+4,beet farming,high,3
+5,cats,medium,4
+6,acapella,low,5
+7,writing,medium,1
+8,insider trading,high,6
+9,fashion,high,1
+10,murder,medium,6
+11,bowling,low,2
+12,keyboarding,medium,5
+13,candles,medium,1
+14,inventing,medium,6
+15,squash,high,2
+16,crosswords,low,6
+17,knitting,medium,1
+18,none,NULL,NULL
